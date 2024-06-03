@@ -4,7 +4,7 @@
   "description": "A template for AWS and Typescript projects",
   "main": "index.js",
   "scripts": {
-    "test": "t"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/yorkshiremoose/template/issues"
   },
-  "homepage": "https://github.com/yorkshiremoose/template#readme"
+  "homepage": "https://github.com/yorkshiremoose/template#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
