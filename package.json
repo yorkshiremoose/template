@@ -1,0 +1,19 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "A template for AWS and Typescript projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yorkshiremoose/template.git"
+  },
+  "author": "Michael Walters",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorkshiremoose/template/issues"
+  },
+  "homepage": "https://github.com/yorkshiremoose/template#readme"
+}
